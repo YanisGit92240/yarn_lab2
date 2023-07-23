@@ -1,0 +1,4 @@
+/Users/rayane/Desktop/Yarn_Lab2/hadoop-examples-mapreduce/src/main/java/com/opstty/AppDriver.java
+/Users/rayane/Desktop/Yarn_Lab2/hadoop-examples-mapreduce/src/main/java/com/opstty/mapper/TokenizerMapper.java
+/Users/rayane/Desktop/Yarn_Lab2/hadoop-examples-mapreduce/src/main/java/com/opstty/reducer/IntSumReducer.java
+/Users/rayane/Desktop/Yarn_Lab2/hadoop-examples-mapreduce/src/main/java/com/opstty/job/WordCount.java
